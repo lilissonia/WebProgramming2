@@ -1,0 +1,25 @@
+Tugas
+1. folder di github web progaramming 2
+2. Isi google drive spreedsheet, Nama + URL Project + Url per praktikum
+
+3. di dalam folder
+a. web programming 2 project
+b. web programming 2 laporan
+
+ISI DARI LAPORAN
+
+4 folder praktikum 1
+perkenalan.php
+praktikum1.docx
+
+5. folder praktikum 2
+view-latihan1
+Model1.php
+Latihan1.php
+Latihan2.php
+praktikum2.docx
+
+6. folder praktikum 3
+view-data-matakuliah.php
+Matakuliah.php
+praktikum3.docx
